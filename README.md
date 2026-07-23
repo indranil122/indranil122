@@ -1,6 +1,6 @@
 # Hey, I'm Nil 👋
 
-Senior Software Developer at Global IDs, building full-stack products with the MERN stack. 4+ years turning ideas into working software, from REST APIs to component libraries to production UIs.
+Senior Software Developer at WFH(work from home) company , building full-stack products with the MERN stack. 4+ years turning ideas into working software, from REST APIs to component libraries to production UIs.
 
 ## What I work with
 
