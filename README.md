@@ -1,32 +1,25 @@
-# Indranil Chatterjee
-
+````text
 <p align="center">
-  <strong>Computer Science Student · Builder · Developer</strong>
-</p>
 
-<p align="center">
-  I build software around AI, developer tools, education and the web.
-</p>
+```text
+██╗███╗   ██╗██████╗ ██████╗  █████╗ ███╗   ██╗██╗██╗
+██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║██║██║
+██║██╔██╗ ██║██║  ██║██████╔╝███████║██╔██╗ ██║██║██║
+██║██║╚██╗██║██║  ██║██╔══██╗██╔══██║██║╚██╗██║██║██║
+██║██║ ╚████║██████╔╝██║  ██║██║  ██║██║ ╚████║██║██║
+╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝
+````
 
-<p align="center">
-  <a href="https://indranil-chatterjee-portfolio.vercel.app/">
-    Portfolio
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/indranil122">
-    GitHub
-  </a>
-</p>
+**Computer Science Student · Builder · Developer**
 
-<br>
+`AI` · `Developer Tools` · `Web` · `Education`
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:111827&height=110&section=header"
-    width="100%"
-    alt=""
-  />
+<a href="https://indranil-chatterjee-portfolio.vercel.app/">Portfolio</a>
+  ·   <a href="https://github.com/indranil122">GitHub</a>
+
 </p>
+```
+
 
 ## About
 
