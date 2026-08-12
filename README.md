@@ -1,24 +1,31 @@
-````text
 <p align="center">
-
-```text
+  <pre align="center">
 ██╗███╗   ██╗██████╗ ██████╗  █████╗ ███╗   ██╗██╗██╗
 ██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║██║██║
 ██║██╔██╗ ██║██║  ██║██████╔╝███████║██╔██╗ ██║██║██║
 ██║██║╚██╗██║██║  ██║██╔══██╗██╔══██║██║╚██╗██║██║██║
 ██║██║ ╚████║██████╔╝██║  ██║██║  ██║██║ ╚████║██║██║
 ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝
-````
+  </pre>
 
-**Computer Science Student · Builder · Developer**
+  <strong>Computer Science Student · Builder · Developer</strong>
 
-`AI` · `Developer Tools` · `Web` · `Education`
+  <br><br>
 
-<a href="https://indranil-chatterjee-portfolio.vercel.app/">Portfolio</a>
-  ·   <a href="https://github.com/indranil122">GitHub</a>
+  <code>AI</code>
+  ·
+  <code>Developer Tools</code>
+  ·
+  <code>Web</code>
+  ·
+  <code>Education</code>
 
+  <br><br>
+
+  <a href="https://indranil-chatterjee-portfolio.vercel.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/indranil122">GitHub</a>
 </p>
-```
 
 ## About
 
