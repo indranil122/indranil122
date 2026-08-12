@@ -1,28 +1,232 @@
-# Hey, I'm Nil 👋
+# Indranil Chatterjee
 
-Senior Software Developer at WFH(work from home) company , building full-stack products with the MERN stack. 4+ years turning ideas into working software, from REST APIs to component libraries to production UIs.
+<p align="center">
+  <strong>Computer Science Student · Builder · Developer</strong>
+</p>
 
-## What I work with
+<p align="center">
+  I build software around AI, developer tools, education and the web.
+</p>
 
-MongoDB, Express.js, React.js, Node.js, Redux Toolkit, Swagger-documented APIs, Storybook, and Jest for testing.
+<p align="center">
+  <a href="https://indranil-chatterjee-portfolio.vercel.app/">
+    Portfolio
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/indranil122">
+    GitHub
+  </a>
+</p>
 
-## What I'm building
+<br>
 
-Co-founder of **SuperMynd**, an AI edtech startup for Indian students prepping for JEE, NEET, GATE, UPSC, and WB state exams. The core idea: a Paper Predictor and AI Mock Tests that get sharper the more students use them. Currently building the Flutter Android app, with AI-powered note generation, PDF analysis pipelines, and a brand identity rooted in Indian design language.
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:111827&height=110&section=header"
+    width="100%"
+    alt=""
+  />
+</p>
 
-## Side projects and experiments
+## About
 
-I like exploring ideas outside the day job, mixing creative coding, music, and accessibility tech.
+I'm a Computer Science student interested in building practical software and learning by shipping projects.
 
-- **AirScript** — a browser-based assistive tool that turns air-drawn gestures into speech, using MediaPipe and Gemini Vision
-- **Sara AI** — a music stem separation tool built with Next.js, FastAPI, and Demucs
-- **Kavira** — a personal AI assistant persona built in Flutter
-- **movsee** — a Windows app for movie watching, with a few logo design detours along the way
+My work currently spans:
 
-## Beyond code
+* AI-powered applications
+* LLM and developer tooling
+* Full-stack web applications
+* Education-focused software
+* Experimental programming projects
 
-Guitarist and lifelong music lover, I think music is inseparable from how I think and build. I care about good UI/UX, animation, and craft that feels human rather than templated.
+I prefer building and experimenting over collecting technologies.
 
-## Let's connect
+---
 
-Always open to talking about edtech, AI products, or good design.
+## What I'm Building
+
+```text
+AI
+├── LLM-powered applications
+├── Developer tooling
+└── Generative systems
+
+WEB
+├── Full-stack applications
+├── Interactive interfaces
+└── Product experiments
+
+EDUCATION
+├── Learning tools
+├── AI-assisted study systems
+└── Educational applications
+```
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,python,c,html,css,firebase,git,github,vercel"
+    alt="Technologies"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    TypeScript · JavaScript · React · Next.js · Node.js · Python · C · HTML · CSS · Firebase · Git · GitHub · Vercel
+  </sub>
+</p>
+
+---
+
+## Selected Projects
+
+### Universal LLM Tokenizer
+
+A project focused on LLM tokenization and developer tooling.
+
+<a href="https://github.com/indranil122/universal-llm-tokenizer">
+  View repository →
+</a>
+
+---
+
+### AI Book Maker
+
+An AI-based project for generating books and related content.
+
+<a href="https://github.com/indranil122/Ai-book-maker">
+  View repository →
+</a>
+
+---
+
+### Gita Rial
+
+A web project centered around the Bhagavad Gita.
+
+<a href="https://github.com/indranil122/gita-rial-26">
+  View repository →
+</a>
+
+---
+
+### ASCII Vision Pro
+
+An experimental visual project based around ASCII representation.
+
+<a href="https://github.com/indranil122/ASCII-Vision-Pro-">
+  View repository →
+</a>
+
+---
+
+<p align="center">
+  <a href="https://github.com/indranil122?tab=repositories">
+    <strong>Explore all repositories →</strong>
+  </a>
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=indranil122&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
+    width="49%"
+    alt="GitHub statistics"
+  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil122&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+ width="42%"
+ alt="Most used languages"
+/>
+
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=indranil122&bg_color=00000000&color=64748b&line=38bdf8&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/indranil122/indranil122/output/github-contribution-grid-snake-dark.svg"
+    />
+
+```
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/indranil122/indranil122/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/indranil122/indranil122/output/github-contribution-grid-snake.svg"
+  alt="Animated GitHub contribution snake"
+  width="100%"
+/>
+```
+
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Contributions visualized as a snake.</sub>
+</p>
+
+---
+
+## Currently
+
+```text
+Learning → Building → Experimenting → Shipping
+```
+
+Currently focused on improving my skills through real projects, software experiments and AI-powered applications.
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://indranil-chatterjee-portfolio.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="https://github.com/indranil122">
+    <img
+      src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Build things. Learn from them. Make them better.</strong>
+</p>
+
+<p align="center">
+  <sub>© Indranil Chatterjee</sub>
+</p>
