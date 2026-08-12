@@ -132,19 +132,6 @@ An experimental visual project based around ASCII representation.
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/indranil122">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=indranil122&show_icons=true&hide_border=true&theme=transparent"
-      alt="GitHub statistics"
-    />
-  </a>
-</p>
-
----
-
 ## GitHub
 
 <p align="center">
