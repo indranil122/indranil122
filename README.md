@@ -166,24 +166,16 @@ An experimental visual project based around ASCII representation.
 ## Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/indranil122/indranil122/output/github-contribution-grid-snake-dark.svg"
-    />
+  <img
+    src="https://raw.githubusercontent.com/indranil122/indranil122/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+    width="100%"
+  />
+</p>
 
-```
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/indranil122/indranil122/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/indranil122/indranil122/output/github-contribution-grid-snake.svg"
-  alt="Animated GitHub contribution snake"
-  width="100%"
-/>
-```
+<p align="center">
+  <sub>Contributions visualized as a snake.</sub>
+</p>
 
   </picture>
 </p>
