@@ -135,22 +135,13 @@ An experimental visual project based around ASCII representation.
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=indranil122&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
-    width="49%"
-    alt="GitHub statistics"
-  />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil122&layout=compact&langs_count=8&hide_border=true&theme=transparent"
- width="42%"
- alt="Most used languages"
-/>
-
+  <a href="https://github.com/indranil122">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=indranil122&show_icons=true&hide_border=true&theme=transparent"
+      alt="GitHub statistics"
+    />
+  </a>
 </p>
-
----
-
 ## Contribution Graph
 
 <p align="center">
