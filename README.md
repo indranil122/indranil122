@@ -148,32 +148,18 @@ An experimental visual project based around ASCII representation.
 
 ---
 
-## GitHub
-
-<p align="center">
-  <a href="https://github.com/indranil122">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=indranil122&bg_color=00000000&color=64748b&line=38bdf8&point=ffffff&area=true&hide_border=true"
-      width="100%"
-      alt="GitHub contribution activity graph"
-    />
-  </a>
-</p>
-
----
-
-## Contribution Snake
+## Contribution Trail
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/indranil122/indranil122/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
+    alt="GitHub contribution trail"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <sub>Contributions visualized as a snake.</sub>
+  <code>commit → build → experiment → ship → repeat</code>
 </p>
 
 ---
