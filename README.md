@@ -25,6 +25,8 @@
 
 </p>
 
+---
+
 ## About
 
 I'm a Computer Science student interested in building practical software and learning by shipping projects.
@@ -129,6 +131,23 @@ An experimental visual project based around ASCII representation.
 
 ---
 
+## Resume
+
+<p align="center">
+  <a href="https://github.com/indranil122/indranil122/raw/refs/heads/main/Indranil_Chatterjee_Resume%20%281%29.pdf">
+    <img
+      src="https://img.shields.io/badge/Download%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+      alt="Download Resume"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Download my latest resume as a PDF.</sub>
+</p>
+
+---
+
 ## GitHub
 
 <p align="center">
@@ -169,19 +188,6 @@ Currently focused on improving my skills through real projects, software experim
 
 ---
 
-## Resume
-
-<p align="center">
-  <a href="https://github.com/indranil122/indranil122/blob/main/Indranil_Chatterjee_Resume%20%281%29.pdf">
-    <img
-      src="https://img.shields.io/badge/View%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
-      alt="View Resume"
-    />
-  </a>
-</p>
-
----
-
 ## Connect
 
 <p align="center">
@@ -199,7 +205,7 @@ Currently focused on improving my skills through real projects, software experim
     />
   </a>
 
-  <a href="https://github.com/indranil122/indranil122/blob/main/Indranil_Chatterjee_Resume%20%281%29.pdf">
+  <a href="https://github.com/indranil122/indranil122/raw/refs/heads/main/Indranil_Chatterjee_Resume%20%281%29.pdf">
     <img
       src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readthedocs&logoColor=white"
       alt="Resume"
