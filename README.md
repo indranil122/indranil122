@@ -1,3 +1,4 @@
+````md
 <p align="center">
   <pre align="center">
 ██╗███╗   ██╗██████╗ ██████╗  █████╗ ███╗   ██╗██╗██╗
@@ -64,3 +65,154 @@ EDUCATION
 ├── Learning tools
 ├── AI-assisted study systems
 └── Educational applications
+````
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,python,c,html,css,firebase,git,github,vercel"
+    alt="Technologies"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    TypeScript · JavaScript · React · Next.js · Node.js · Python · C · HTML · CSS · Firebase · Git · GitHub · Vercel
+  </sub>
+</p>
+
+---
+
+## Selected Projects
+
+### Universal LLM Tokenizer
+
+A project focused on LLM tokenization and developer tooling.
+
+<a href="https://github.com/indranil122/universal-llm-tokenizer">
+  View repository →
+</a>
+
+---
+
+### AI Book Maker
+
+An AI-based project for generating books and related content.
+
+<a href="https://github.com/indranil122/Ai-book-maker">
+  View repository →
+</a>
+
+---
+
+### Gita Rial
+
+A web project centered around the Bhagavad Gita.
+
+<a href="https://github.com/indranil122/gita-rial-26">
+  View repository →
+</a>
+
+---
+
+### ASCII Vision Pro
+
+An experimental visual project based around ASCII representation.
+
+<a href="https://github.com/indranil122/ASCII-Vision-Pro-">
+  View repository →
+</a>
+
+---
+
+<p align="center">
+  <a href="https://github.com/indranil122?tab=repositories">
+    <strong>Explore all repositories →</strong>
+  </a>
+</p>
+
+---
+
+## Resume
+
+<p align="center">
+  <a href="https://github.com/indranil122/indranil122/raw/refs/heads/main/Indranil_Chatterjee_Resume%20%281%29.pdf">
+    <img
+      src="https://img.shields.io/badge/Download%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+      alt="Download Resume"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Download my latest resume as a PDF.</sub>
+</p>
+
+---
+
+## Contribution Trail
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/indranil122/indranil122/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution trail"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    A visual trail of commits, experiments, and things shipped.
+  </sub>
+</p>
+
+---
+
+## Currently
+
+```text
+Learning → Building → Experimenting → Shipping
+```
+
+Currently focused on improving my skills through real projects, software experiments and AI-powered applications.
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://indranil-chatterjee-portfolio.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="https://github.com/indranil122">
+    <img
+      src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://github.com/indranil122/indranil122/raw/refs/heads/main/Indranil_Chatterjee_Resume%20%281%29.pdf">
+    <img
+      src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readthedocs&logoColor=white"
+      alt="Resume"
+    />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Build things. Learn from them. Make them better.</strong>
+</p>
+
+<p align="center">
+  <sub>© Indranil Chatterjee</sub>
+</p>
+```
