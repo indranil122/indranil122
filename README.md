@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <pre align="center">
 ██╗███╗   ██╗██████╗ ██████╗  █████╗ ███╗   ██╗██╗██╗
@@ -9,29 +8,24 @@
 ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝
   </pre>
 
-  <strong>Computer Science Student · Builder · Developer</strong>
+<strong>Computer Science Student · Builder · Developer</strong>
 
-  <br><br>
+<br><br>
 
-  <code>AI</code>
-  ·
-  <code>Developer Tools</code>
-  ·
-  <code>Web</code>
-  ·
-  <code>Education</code>
+<code>AI</code>
+· <code>Developer Tools</code>
+· <code>Web</code>
+· <code>Education</code>
 
-  <br><br>
+<br><br>
 
-  <a href="https://indranil-chatterjee-portfolio.vercel.app/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/indranil122">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/indranil122/indranil122/blob/main/Indranil_Chatterjee_Resume%20%281%29.pdf">Resume</a>
+<a href="https://indranil-chatterjee-portfolio.vercel.app/">Portfolio</a>
+ ·  <a href="https://github.com/indranil122">GitHub</a>
+ ·  <a href="https://github.com/indranil122/indranil122/blob/main/Indranil_Chatterjee_Resume%20%281%29.pdf">Resume</a>
+
 </p>
 
 ---
-[README.md](https://github.com/user-attachments/files/31772682/README.md)
 
 ## About
 
@@ -39,11 +33,11 @@ I'm a Computer Science student interested in building practical software and lea
 
 My work currently spans:
 
-- AI-powered applications
-- LLM and developer tooling
-- Full-stack web applications
-- Education-focused software
-- Experimental programming projects
+* AI-powered applications
+* LLM and developer tooling
+* Full-stack web applications
+* Education-focused software
+* Experimental programming projects
 
 I prefer building and experimenting over collecting technologies.
 
@@ -66,7 +60,7 @@ EDUCATION
 ├── Learning tools
 ├── AI-assisted study systems
 └── Educational applications
-````
+```
 
 ---
 
@@ -165,9 +159,7 @@ An experimental visual project based around ASCII representation.
 </p>
 
 <p align="center">
-  <sub>
-    A visual trail of commits, experiments, and things shipped.
-  </sub>
+  <code>commit → build → experiment → ship → repeat</code>
 </p>
 
 ---
@@ -216,4 +208,3 @@ Currently focused on improving my skills through real projects, software experim
 <p align="center">
   <sub>© Indranil Chatterjee</sub>
 </p>
-```
