@@ -8,23 +8,21 @@
 ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝
   </pre>
 
-  <strong>Computer Science Student · Builder · Developer</strong>
+<strong>Computer Science Student · Builder · Developer</strong>
 
-  <br><br>
+<br><br>
 
-  <code>AI</code>
-  ·
-  <code>Developer Tools</code>
-  ·
-  <code>Web</code>
-  ·
-  <code>Education</code>
+<code>AI</code>
+· <code>Developer Tools</code>
+· <code>Web</code>
+· <code>Education</code>
 
-  <br><br>
+<br><br>
 
-  <a href="https://indranil-chatterjee-portfolio.vercel.app/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/indranil122">GitHub</a>
+<a href="https://indranil-chatterjee-portfolio.vercel.app/">Portfolio</a>
+ ·  <a href="https://github.com/indranil122">GitHub</a>
+ ·  <a href="https://github.com/indranil122/indranil122/blob/main/Indranil_Chatterjee_Resume%20%281%29.pdf">Resume</a>
+
 </p>
 
 ## About
@@ -159,6 +157,8 @@ An experimental visual project based around ASCII representation.
   <sub>Contributions visualized as a snake.</sub>
 </p>
 
+---
+
 ## Currently
 
 ```text
@@ -166,6 +166,19 @@ Learning → Building → Experimenting → Shipping
 ```
 
 Currently focused on improving my skills through real projects, software experiments and AI-powered applications.
+
+---
+
+## Resume
+
+<p align="center">
+  <a href="https://github.com/indranil122/indranil122/blob/main/Indranil_Chatterjee_Resume%20%281%29.pdf">
+    <img
+      src="https://img.shields.io/badge/View%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+      alt="View Resume"
+    />
+  </a>
+</p>
 
 ---
 
@@ -182,6 +195,14 @@ Currently focused on improving my skills through real projects, software experim
   <a href="https://github.com/indranil122">
     <img
       src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://github.com/indranil122/indranil122/blob/main/Indranil_Chatterjee_Resume%20%281%29.pdf">
+    <img
+      src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readthedocs&logoColor=white"
+      alt="Resume"
     />
   </a>
 </p>
